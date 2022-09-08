@@ -1,6 +1,8 @@
 # RPS-Console-Game
 A Rock Paper Scissor Game Made With ❤ By Ahad#3257
 
+Took me 15 minutes to code this.
+
 # How To Use?
 It's very simple just follow the steps written below.
 
