@@ -7,7 +7,7 @@ It's very simple just follow the steps written below.
 Run `plqy.bat` or type `py game.py` in console.
 ***
 
-<p align="center"><img width="800px" src="https://cdn.discordapp.com/attachments/839459516926918688/984201831464960091/ezgif.com-gif-maker.gif"/></p>
+<p align="center"><img width="800px" src="https://media.discordapp.net/attachments/1011340929786986564/1017374766665056296/unknown.png"/></p>
 
 ***
 # Note:
