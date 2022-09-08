@@ -1,4 +1,5 @@
 @echo off 
-title RPS Made By Ahad#3257
+title RPS Game Made By Ahad#3257
 :START 
-py spammer.py
+py game.py
+goto START
