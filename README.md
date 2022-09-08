@@ -4,7 +4,7 @@ A Rock Paper Scissor Game Made With ❤ By Ahad#3257
 # How To Use?
 It's very simple just follow the steps written below.
 
-Run `plqy.bat` or type `py game.py` in console.
+Run `play.bat` or type `py game.py` in console.
 ***
 
 <p align="center"><img width="800px" src="https://media.discordapp.net/attachments/1011340929786986564/1017374766665056296/unknown.png"/></p>
